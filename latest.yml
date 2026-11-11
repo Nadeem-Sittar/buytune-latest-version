@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: Buytune-Setup-1.0.0.exe
-    sha512: kGkSa3wCoZdHfU5pUHWhlLsG6Qc9gMmXSN/WDm93oXKA157gNcUFMz7GdcFYqnNXSXB1q9qR+Uc8MgKqJ6tb4A==
-    size: 109028898
-path: Buytune-Setup-1.0.0.exe
-sha512: kGkSa3wCoZdHfU5pUHWhlLsG6Qc9gMmXSN/WDm93oXKA157gNcUFMz7GdcFYqnNXSXB1q9qR+Uc8MgKqJ6tb4A==
-releaseDate: '2026-11-11T13:01:44.117Z'
+  - url: Buytune-Setup-1.0.1.exe
+    sha512: daZgiO19ZKBYcyEFtcF0P+y25ZFFOSFMrIxgWAlqh7SD4Yei2t3UmU0zyc2drhhPyXOFjyTE5NTUMiGZm0hg1Q==
+    size: 109028760
+path: Buytune-Setup-1.0.1.exe
+sha512: daZgiO19ZKBYcyEFtcF0P+y25ZFFOSFMrIxgWAlqh7SD4Yei2t3UmU0zyc2drhhPyXOFjyTE5NTUMiGZm0hg1Q==
+releaseDate: '2026-11-11T17:30:04.193Z'
