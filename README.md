@@ -1,22 +1,71 @@
-# Buytune downloads
+# Buytune - Offline-First Point of Sale (POS)
 
-**This repository's file list does NOT contain downloads.**
+**Buytune** is a modern, lightning-fast inventory management and Point of Sale software designed for retail stores, boutiques, and mobile shops.
 
-Get Buytune from the **Releases** page — it always has the newest version:
+Built to work **100% offline**, Buytune ensures your store never stops running, even when the internet goes down.
 
-➡️ **https://github.com/Nadeem-Sittar/buytune-latest-version/releases**
+---
 
-- The app itself checks this feed and offers the update in
-  **About → Updates** (or during install setup).
-- Every release (`vX.Y.Z`) contains:
-  - `Buytune-Setup-X.Y.Z.exe` — Windows installer (most users want this)
-  - `Buytune-Setup-X.Y.Z.exe.blockmap` — differential-update data
-  - `Buytune-Store-X.Y.Z.appx` — Microsoft Store package
-  - `latest.yml` — machine-readable version manifest (used by the updater)
-- Older versions stay listed under **Releases → Older** — the archive lives
-  there too, never as files in this repo's tree.
+## 📥 Download & Installation
 
-> Why nothing is committed here: binaries in the tree would bloat the
-> repository and confuse visitors about which file is current. Since
-> 2026-11-11 the official rule is **GitHub Releases only** (see
-> `docs/RELEASE-PROCESS.md` in the private `buytune` source repo).
+You can always find the latest official version of Buytune on our Releases page:
+
+👉 **[Download Buytune Latest Version](https://github.com/Nadeem-Sittar/buytune-latest-version/releases)**
+
+### Which file should I download?
+
+Every release page will contain the following files:
+
+- **`Buytune-Setup-X.Y.Z.exe`** — **(Recommended for Windows Users)** The standard installer. Download and run this to install Buytune on your PC.
+- **`Buytune-Store-X.Y.Z.appx`** — The Microsoft Store package. Use this file only if you are installing via the Microsoft Store.
+
+> _Note: The `.blockmap` and `.yml` files are automatic background files used by the app to update itself safely. You do not need to download these manually._
+
+---
+
+## ✨ Key Features
+
+- **Blazing Fast Offline Mode:** Sell, purchase, and manage stock without an internet connection. Your data is stored securely on your local machine.
+- **Smart Updates:** Buytune features a built-in updater. When a new version is available, the app will safely notify you and update itself.
+- **Multi-Business Support:** Customizable forms tailored to your exact business type (General Retail, Mobile/Electronics, Clothing, Cosmetics).
+- **Complete Inventory Control:** Track stock levels, set low-stock alerts, and manage supplier purchases.
+- **Detailed Reporting:** View daily sales, profit/loss, and cash drawer handovers.
+
+---
+
+## 🏢 About Buytune
+
+Buytune was created with a simple goal: to give independent shop owners an enterprise-grade POS system that is fast, reliable, and doesn't require an expensive monthly cloud subscription to function.
+
+### Supported Business Models
+
+When you install Buytune, you can configure it to match your shop:
+
+- 🏪 **General Store / Grocery**
+- 📱 **Mobile & Electronics Shop**
+- 👗 **Clothing & Boutiques** (Includes Size/Color matrices and piece-by-piece tracking)
+- 💄 **Cosmetics & Beauty**
+
+---
+
+## 🔄 How Updates Work
+
+You don't need to uninstall and reinstall Buytune to get new features.
+
+1. Open Buytune.
+2. Go to **Settings > About**.
+3. Click **Check for Updates**.
+4. If a new version is found, Buytune will download and install it automatically.
+
+---
+
+## 🛠️ Support & Feedback
+
+If you encounter any issues, have questions, or want to request a new feature for your business model:
+
+- **Report a Bug:** Please open an Issue on this GitHub repository.
+- **Contact Support:** Reach out to our team at [buytune.support@gmail.com]
+
+---
+
+_Copyright © 2026 Buytune. All rights reserved._
