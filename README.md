@@ -14,12 +14,11 @@ You can always find the latest official version of Buytune on our Releases page:
 
 ### Which file should I download?
 
-Every release page will contain the following files:
+Every release page will contain the following file:
 
 - **`Buytune-Setup-X.Y.Z.exe`** — **(Recommended for Windows Users)** The standard installer. Download and run this to install Buytune on your PC.
-- **`Buytune-Store-X.Y.Z.appx`** — The Microsoft Store package. Use this file only if you are installing via the Microsoft Store.
 
-> _Note: The `.blockmap` and `.yml` files are automatic background files used by the app to update itself safely. You do not need to download these manually._
+> _Note: The `.blockmap` and `.yml` files are automatic background files used by the app to update itself safely. You do not need to download these manually. The Microsoft Store package (`.appx`) is not published here — it is delivered through the Microsoft Store._
 
 ---
 
